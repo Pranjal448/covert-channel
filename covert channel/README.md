@@ -9,8 +9,6 @@ This project was developed and tested using a virtualized environment to ensure 
 
 ---
 
-// steps to open virtual machine
-
 ## 2. Host System Details
 
 * **Host Operating System:** Ubuntu Linux
